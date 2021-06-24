@@ -1,4 +1,3 @@
-# Exercícios Python
- Exercícios em Python do Curso em Video do professor Gustavo Guanabara
+# Pratica Python
 
-Estou disposto a receber criticas construtivas e dicas para melhorar o codigo!
+Pequenos programas feitos em Python para praticar.
